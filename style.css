@@ -1,0 +1,200 @@
+#Casillabowser{
+    border-color: white;
+    border-radius: 100%;
+    border-width: 0cqmax;
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 0;
+}
+#Jugador{
+    position: absolute;
+    top: 20px;
+    left: 260px;
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+    font-size: 27pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(22, 135, 109, 0.933);
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+   1px -1px 0 #000,
+  -1px -1px 0 #000;
+   background-color: rgba(20, 126, 158, 0.548);
+}
+   #Objeto{
+    position: absolute;
+    top: 20px;
+    left: 500px;
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+    font-size: 27pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(214, 255, 12, 0.985);
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+   1px -1px 0 #000,
+  -1px -1px 0 #000;
+   background-color: rgb(255, 140, 0);
+}
+h1{
+    position: absolute;
+    font-size: 70pt;
+}
+#Retrocedes25casillas{
+    color: red;
+    top: 250px;
+    left: 350px;
+    text-shadow: -1px 1px 0 #000,
+    2px 2px 0 #000,
+   2px -2px 0 #000,
+  -2px -2px 0 #000;
+}
+#Ledastodastusmonedasaljugadorqueelijas{
+    color: red;
+    top: 175px;
+    left: 250px;
+    text-shadow: -1px 1px 0 #000,
+    2px 2px 0 #000,
+   2px -2px 0 #000,
+  -2px -2px 0 #000;
+}
+#Intercambiastuposiciónconladeljugadormásatrasado{
+    color: red;
+    top: 160px;
+    left: 150px;
+    text-shadow: -1px 1px 0 #000,
+    2px 2px 0 #000,
+   2px -2px 0 #000,
+  -2px -2px 0 #000;
+}
+#Nomuevesdurantetresturnos{
+    color: red;
+    top: 200px;
+    left: 300px;
+    text-shadow: -1px 1px 0 #000,
+    2px 2px 0 #000,
+   2px -2px 0 #000,
+  -2px -2px 0 #000;
+}
+#Tesalvas{
+    color: red;
+    top: 280px;
+    left: 600px;
+    text-shadow: -1px 1px 0 #000,
+    2px 2px 0 #000,
+   2px -2px 0 #000,
+  -2px -2px 0 #000;
+}
+
+#CajaTeletransporteImg{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    height: 400px;
+    width: 400px;
+}
+#CajaTeletransporte{
+    color: white;
+    text-shadow: -1px 1px 0 #ff5900,
+    2px 2px 0 #ff5900,
+   2px -2px 0 #ff5900,
+  -2px -2px 0 #ff5900;
+  top: 400px;
+  left: 400px;
+}
+#BillBalaImg{
+    position: absolute;
+    top: 100px;
+    left: 550px;
+    height: 400px;
+    width: 550px;
+}
+#BillBala{
+    color: black;
+  top: 430px;
+  left: 625px;
+}
+#Champinion{
+    color:#c7ca89e4;
+    text-shadow: -1px 1px 0 red,
+    2px 2px 0 red,
+   2px -2px 0 red,
+  -2px -2px 0 red;
+  top: 430px;
+  left: 575px;
+}
+#ChampinionImg{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    height: 400px;
+    width: 400px;
+}
+#ChampinionTurboDorado{
+    color: rgb(255, 200, 0);
+    text-shadow: -1px 1px 0 orangered,
+    2px 2px 0 orangered,
+   2px -2px 0 orangered,
+  -2px -2px 0 orangered;
+  top: 430px;
+  left: 350px;
+}
+#ChampinionTurboDoradoImg{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    height: 400px;
+    width: 400px;
+}
+#Lakitu{
+    color:#e2e4cbe4;
+    text-shadow: -1px 1px 0 orange,
+    2px 2px 0 orange,
+   2px -2px 0 orange,
+  -2px -2px 0 orange;
+  top: 430px;
+  left: 575px;
+}
+#LakituImg{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    height: 400px;
+    width: 300px; 
+}
+#ChampinionMalvado{
+    color:purple;
+    text-shadow: -1px 1px 0 black,
+    2px 2px 0 black,
+   2px -2px 0 black,
+  -2px -2px 0 black;
+  top: 430px;
+  left: 415px;
+}
+#ChampinionMalvadoImg{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    height: 400px;
+    width: 400px;
+}
+#CopaDesafio{
+    color:#d6e24e;
+    text-shadow: -1px 1px 0 orange,
+    2px 2px 0 orange,
+   2px -2px 0 orange,
+  -2px -2px 0 orange;
+  top: 430px;
+  left: 520px;
+}
+#CopaDesafioImg{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    height: 400px;
+    width: 400px;
+}
